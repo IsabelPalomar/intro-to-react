@@ -63,6 +63,7 @@ class App extends Component {
       <div>
   <Navbar>
     <Navbar.Header>
+      <a href="https://github.com/IsabelPalomar/intro-to-react">Learn more</a>
       <Navbar.Brand>
         React Simple Weather App
       </Navbar.Brand>
